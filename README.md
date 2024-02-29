@@ -100,10 +100,6 @@ An in-depth description of the `user-card.css` stylesheet, highlighting the styl
 
 An elaborate explanation of the global styles defined in `App.css`. This includes the styling for the entire application, covering elements like the app container, main content area, and search form.
 
-## License
-
-This project is licensed under the MIT License, providing users with information about the project's licensing terms.
-
 ## Acknowledgments
 
 Acknowledgments section expressing gratitude to GitHub for providing the API that powers the application. It recognizes external contributions and resources that have played a role in the project's development.
